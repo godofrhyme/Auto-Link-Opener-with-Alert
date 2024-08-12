@@ -1,4 +1,4 @@
-# Auto-Link Opener with Alert
+# deneme 7537459739
 
 This Python script automatically opens a specific web link every 5 minutes and plays an audible alert. This functionality is useful for tasks that require regular monitoring of a website, such as checking login pages, updates, or other web-based information that requires periodic attention.
 
